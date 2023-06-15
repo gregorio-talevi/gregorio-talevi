@@ -8,6 +8,7 @@ Currently, I am actively engaged in conducting research for my thesis in this ar
 
 <div align=center>
 <h2>My skills</h2>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,6 +21,7 @@ Currently, I am actively engaged in conducting research for my thesis in this ar
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h2>My GitHub Stats</h2>
+
 ![gregorio-talevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregorio-talevi&show_icons=true&theme=tokyonight&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorio-talevi&theme=tokyonight)
 
